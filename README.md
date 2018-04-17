@@ -1,2 +1,3 @@
-# machine-learning-yearning
-Machine Learning Yearning book by 𝓐𝓷𝓭𝓻𝓮𝔀 🆖
+# Machine Learning Yearning
+Technical strategy for AI engineers, in the era of deep learning
+Author : 𝓐𝓷𝓭𝓻𝓮𝔀 🆖
