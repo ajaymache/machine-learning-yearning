@@ -1,6 +1,6 @@
 <p align="center"><img src="/images/mly.png"></p>
 
-# Machine Learning Yearning [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Machine%20Learning%20Yearning%2C%20book%20by%20Andrew%20Ng%20&url=https://github.com/ajaymache/machine-learning-yearning&hashtags=machinelearning,ML,AI,deeplearning,andrewng,coursera,datascience)&nbsp;&nbsp;[![GitHub issues](https://img.shields.io/github/issues/ajaymache/travis-ci-with-github.svg?colorB=ff004d)](https://github.com/ajaymache/travis-ci-with-github/issues)&nbsp;&nbsp;
+# Machine Learning Yearning [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Machine%20Learning%20Yearning%2C%20book%20by%20Andrew%20Ng%20&url=https://github.com/ajaymache/machine-learning-yearning&hashtags=machinelearning,ML,AI,deeplearning,andrewng,coursera,datascience)&nbsp;&nbsp;[![GitHub issues](https://img.shields.io/github/issues/ajaymache/travis-ci-with-github.svg?colorB=99cc33)](https://github.com/ajaymache/travis-ci-with-github/issues)&nbsp;&nbsp;
 
 #### Technical Strategy for AI Engineers, In the Era of Deep Learning
 
